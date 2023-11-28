@@ -1,0 +1,15 @@
+
+/*header*/
+header {
+    @include flex;
+    padding: 14px 89px 13px 89px;
+    background: $white;
+
+    .logo {
+        width: 165px;
+    height: 72px;
+    }
+
+}
+
+
